@@ -1,0 +1,7 @@
+{
+  "name": "Winter_Heart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
